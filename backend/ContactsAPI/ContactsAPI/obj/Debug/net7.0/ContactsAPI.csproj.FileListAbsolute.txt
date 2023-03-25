@@ -31,3 +31,6 @@ C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\ob
 C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\obj\Debug\net7.0\ContactsAPI.pdb
 C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\obj\Debug\net7.0\ContactsAPI.genruntimeconfig.cache
 C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\obj\Debug\net7.0\ref\ContactsAPI.dll
+C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HS\source\repos\myGithub\contactsApp\backend\ContactsAPI\ContactsAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
